@@ -1,3 +1,9 @@
+# Flash Sale Profitability Analysis
+
+## Why High Revenue Does Not Always Mean High Profit
+
+An end-to-end SQL-based business analysis of a large Indian fashion and lifestyle e-commerce company to investigate how flash sales impact profitability.
+
 ## Methodology
 
 ### 1. Data Validation
